@@ -12,8 +12,8 @@ En plus de ma passion pour le développement web,  j'aime le cinéma, les jeux v
 
 N'hésitez pas à me contacter si vous avez des questions ou si vous souhaitez travailler sur un projet ensemble.
 
-#GH-LIGHT-MODE-ONLY
-#GH-DARK-MODE-ONLY
+
 <!--
 **Peter-Binate/Peter-Binate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+#GH-LIGHT-MODE-ONLY
+#GH-DARK-MODE-ONLY
