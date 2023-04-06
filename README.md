@@ -9,6 +9,7 @@ J'aime travailler en équipe et partager mes connaissances avec les autres déve
 
 En plus de ma passion pour le développement web,  j'aime le cinéma, les jeux vidéos et les sciences (l'astronomie, la biologie, etc...). 
 
+
 N'hésitez pas à me contacter si vous avez des questions ou si vous souhaitez travailler sur un projet ensemble.
 
 <!--
