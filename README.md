@@ -1,7 +1,7 @@
 ### Bonjour et bienvenue 👋
-Je suis un développeur front-end JavaScript qui aime créer des sites web interactifs et attrayants. 
+Je suis un développeur full-stack qui aime créer des sites web interactifs et attrayants. 
 
-Actuellement, je suis en train d'apprendre la bibliothèque React.js pour améliorer mes compétences en développement web.
+Actuellement, je suis en train d'apprendre la bibliothèque Next.js pour améliorer mes compétences en développement web.
 
 Je suis constamment à la recherche de nouveaux projets à réaliser pour améliorer mes connaissances et mes compétences. 
 
