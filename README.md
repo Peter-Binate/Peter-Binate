@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm peter</h1>
 <h3 align="center">A passionate frontend developer from France</h3>
 
-- 🌱 I’m currently learning **djangoRestFramework**
+- 🌱 I’m currently learning **DjangoRestFramework**
 
 <!-- - 👨‍💻 All of my projects are available at [peter.fr](peter.fr) -->
 
